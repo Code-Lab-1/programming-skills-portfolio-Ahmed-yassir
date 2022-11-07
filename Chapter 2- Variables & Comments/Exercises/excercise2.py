@@ -1,0 +1,1 @@
+print(' ' 'if you want a happy life, set a goal, not people or things."- Albert Einstein' ' ')
